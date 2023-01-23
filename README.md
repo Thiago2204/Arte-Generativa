@@ -24,3 +24,6 @@ Durante a semana do FCI da Universidade Presbiteriana Mackenzie, participei de u
 - A intenção era fazer uma alusão a cena abaixo:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=3gQnEQHA8jg)
+
+## Visual Gerado
+![image](https://user-images.githubusercontent.com/80297158/213952108-62cd2b6a-aa65-44ed-8a30-9098d2abab2b.png)
